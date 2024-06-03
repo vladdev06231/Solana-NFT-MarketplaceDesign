@@ -12,4 +12,4 @@ Anchor Design of contract - Accounts, Parameters
 #### Bid informations are stored onchain. Since storage and tx fee is too small on Solana.
 #### This is only design, but I can develop full system in short period.
 
-Detailed Documents is [here](https://github.com/blockchainlover2019/MarketplaceDesign/blob/master/contract_design.pdf)
+Detailed Documents is [here](https://github.com/vladdev06231/Solana-NFT-MarketplaceDesign/blob/master/contract_design.pdf)
